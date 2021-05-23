@@ -1,0 +1,26 @@
+{
+	"name": "sr-blue-dark",
+	"displayName": "SR Blue Dark",
+	"description": "SR Blue Dark",
+	"version": "0.0.1",
+	"publisher": "Serhan Ramadan",
+	"repository": {
+		"type": "git",
+		"url": ""
+	},
+	"engines": {
+		"vscode": "^1.56.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "SR Blue Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/SR Blue Dark-color-theme.json"
+			}
+		]
+	}
+}
