@@ -3,11 +3,17 @@
 	"displayName": "SR Blue Dark",
 	"description": "SR Blue Dark",
 	"version": "0.0.1",
-	"publisher": "Serhan Ramadan",
+	"publisher": "SerhanRamadan",
 	"repository": {
 		"type": "git",
-		"url": ""
+		"url": "https://github.com/SerhanRamadan/sr-blue-dark"
 	},
+	"keywords": [
+		"theme",
+		"dark",
+		"dark-theme",
+		"blue-theme"
+	],
 	"engines": {
 		"vscode": "^1.56.0"
 	},
