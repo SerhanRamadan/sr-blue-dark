@@ -17,6 +17,7 @@
 	"engines": {
 		"vscode": "^1.56.0"
 	},
+	"icon": "images/logo.png",
 	"categories": [
 		"Themes"
 	],
